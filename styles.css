@@ -1,0 +1,29 @@
+body {
+    color: white;
+    background-image: url(./blueprint.png);
+}
+
+main {
+    display: block;
+    min-width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+#message, h1 {
+    background-color: #4f7cff;
+    max-width: fit-content;
+    margin: auto;
+
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2em;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2em;
+   
+}
+
+a { 
+    color: white;
+}
